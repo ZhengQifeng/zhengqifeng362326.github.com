@@ -1,0 +1,42 @@
+/* 
+* @Author: anchen
+* @Date:   2016-10-20 09:34:58
+* @Last Modified by:   anchen
+* @Last Modified time: 2016-10-29 16:50:33
+*/
+body{
+    background-color: black;
+}
+
+.nav-container{
+   background-color: #fff;
+   border-radius: 4px;
+   box-shadow: 0 1px 2px 0 rgba(153, 153, 153, 0.35);
+   padding: 1em;
+   border: 1px solid #eee;
+   display: block;
+   max-width: 400px;
+   margin: 0 auto;
+   text-align: center;
+}
+
+.nav-items{
+  background-color: rgba(0%, 100%,0%, 0.1);
+  border: 1px solid rgba(0%, 100%,0%, 0.1);
+}
+
+.nav-item {
+  padding: 1em;
+  border-radius: 4px;
+  border: 1px solid rgba(0%, 100%,0%, 0.1);
+}
+
+.dropdown-menu{
+  background-color: rgba(100%, 0%,0%, 0.1);
+}
+
+.dropdown-menu-item{
+  padding: 1em;
+  border: 1px solid rgba(100%, 0%,0%, 0.1);
+  border-radius: 4px;
+}
